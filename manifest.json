@@ -1,0 +1,21 @@
+{
+  "name": "My WorkOut",
+  "short_name": "My WorkOut",
+  "start_url": "index.php",
+  "display": "standalone",
+  "background_color": "#0d0d0d",
+  "theme_color": "#CCFF00",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
